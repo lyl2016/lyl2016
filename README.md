@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there
+💬 Nimaime on GitHub, nice to see you all!
 
-<!--
-**lyl2016/lyl2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- zh-CN / ja-JP / en-US
+- Chinese
+- GISer / Independent Developer / ACGer
 
-Here are some ideas to get you started:
+My E-Mail Address: <lylusually@hotmail.com>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Languages
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
