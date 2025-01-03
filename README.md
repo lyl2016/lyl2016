@@ -11,3 +11,4 @@ My E-Mail Address: <lylusually@hotmail.com>
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![Flutter](https://img.shields.io/badge/-Flutter-4acffd?style=flat-square&logo=flutter&logoColor=fff)
